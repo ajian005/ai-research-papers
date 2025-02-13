@@ -121,3 +121,21 @@ Agent AI
 ### 具身智能Embodied Artificial Intelligence‌(EAI)
 ### 安全对齐 Security alignment
 
+
+## 五 AI经典(开|闭源)项目(AI Classic research papers)
+### 人工智能AI
+### 机器学习ML
+### 深度学习DL
+### 强化学习RL
+### 大模型理论与实践LLM
+### 提示词&提示词工程Prompting project
+### 人工智能代理 Agent AI
+### 自然语言处理NLP
+### 计算机视觉CV
+### 具身智能Embodied Artificial Intelligence‌(EAI)
+   - π0 Pi0是最先进的视觉语言动作模型，它能将自然语言命令直接转化为自主行为。
+   Hugging Face首席研究科学家Remi Cadene表示:"Pi0是最先进的视觉语言动作模型，它能将自然语言命令直接转化为自主行为。"模型现已在Hugging Face平台开源，开发者只需几行代码即可调用。
+https://github.com/Physical-Intelligence/openpi
+https://www.physicalintelligence.company/blog/openpi
+### 安全对齐 Security alignment
+
